@@ -14,6 +14,7 @@ numbers2 = [4, 5, 6]
 merged = numbers1 + numbers2
 print(merged)
 ```
+
 ## Languages
 * Russian - Native
 * English - A1
