@@ -16,3 +16,9 @@
  else:
     print(f"{number} является нечетным числом.")
 ```
+ ## Experience ##
+ I have no work experience.
+ ## Education ##
+ I'm a student
+ ## English ##
+ A1. I have an elementary level, but I'm actively studying
